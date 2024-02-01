@@ -1,0 +1,3 @@
+17:04:22	New game
+17:04:23	Awake
+17:04:23	250 cubes have been generated
